@@ -1,0 +1,15 @@
+#head {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: grid;
+    align-items: center;
+    min-height: auto;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
